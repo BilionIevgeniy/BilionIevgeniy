@@ -67,13 +67,6 @@ Currently, I am expanding my expertise in modern frontend engineering and AI-pow
 
 ---
 
-## 📊 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BilionIevgeniy&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BilionIevgeniy&layout=compact&theme=github_dark&hide_border=true)
----
-
 ## 📫 Get in Touch
 
 <a href="mailto:ievgenbilion@gmail.com">
