@@ -42,17 +42,6 @@ Currently, I am undergoing an intensive **AI Software Engineering** specializati
 
 ---
 
-## 📊 GitHub Insights
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BilionIevgeniy&show_icons=true&theme=dark&hide_border=true" alt="Ievgen's Stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilionIevgeniy&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 Get in Touch
 <a href="mailto:ievgenbilion@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
