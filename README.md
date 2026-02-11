@@ -22,7 +22,6 @@ Currently, I am undergoing an intensive **AI Software Engineering** specializati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="56" height="56"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="56" height="56"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="56" height="56"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="56" height="56"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="56" height="56"/>
 
 ### 🧪 Advanced Upskilling @ Developer Akademie
@@ -30,7 +29,6 @@ Currently, I am undergoing an intensive **AI Software Engineering** specializati
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gemini" width="45" height="45"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-icon.svg" alt="n8n" width="45" height="45"/>
 
 ---
 
