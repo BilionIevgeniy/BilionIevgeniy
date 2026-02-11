@@ -43,8 +43,13 @@ Currently, I am undergoing an intensive **AI Software Engineering** specializati
 ---
 
 ## 📊 GitHub Insights
-![Ievgen's Stats](https://github-readme-stats.vercel.app/api?username=BilionIevgeniy&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilionIevgeniy&layout=compact&theme=radical&hide_progress=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=BilionIevgeniy&show_icons=true&theme=dark&hide_border=true" alt="Ievgen's Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilionIevgeniy&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
