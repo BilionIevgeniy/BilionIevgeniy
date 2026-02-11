@@ -14,8 +14,6 @@ Currently, I am undergoing an intensive **AI Software Engineering** specializati
 - 🤖 **AI Integration:** Leveraging LLMs (Gemini, ChatGPT), GitHub Copilot, and automation tools (n8n) to build "smart" applications.
 - 🌍 **Languages:** English (B2), German (B2), Ukrainian & Russian (Native).
 
-[**📂 Explore My Portfolio**](https://BilionIevgeniy.github.io/portfolio) ---
-
 ## 🛠 Tech Stack & Toolset
 
 ### 🏆 Professional Experience (3.5+ Years)
