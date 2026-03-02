@@ -38,6 +38,7 @@ Currently, I am expanding my expertise in modern frontend engineering and AI-pow
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="45" height="45"/>&nbsp;&nbsp;
 
 ---
 
