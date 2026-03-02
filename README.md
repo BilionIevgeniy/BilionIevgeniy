@@ -56,7 +56,7 @@ Currently, I am expanding my expertise in modern frontend engineering and AI-pow
 
 ## 🎓 Education & Professional Development
 
-- **AI Software Developer** | Developer Akademie, Munich (2025–2026)  
+- **AI Software Developer** | Developer Akademie, Munich (March 2026 – Present (Expected August 2026)  
   *Focus: Angular (v20), Supabase, AI-powered web apps, RAG systems*
 
 - **Fullstack Developer** | Commercial Experience (2020–2024)  
