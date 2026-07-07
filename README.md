@@ -55,7 +55,7 @@ Currently deepening my expertise through a state-funded **IHK Weiterbildung** at
 ## 🎓 Education & Development
 
 - 🎓 **Softwareentwickler (IHK) – Frontend Focus** · Developer Akademie
-  `Feb 2024 – Sep 2026` · Angular, React, NestJS, modern frontend architecture
+  `Feb 2026 – Sep 2026` · Angular, Supabase, modern frontend architecture
 
 - 🤖 **Coding With AI – Planning To Production** · Udemy *(in progress)*
   `2026` · AI workflow, prompt engineering, LLM API integration, MCP, Next.js SaaS
